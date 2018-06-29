@@ -1,0 +1,30 @@
+{
+  "name": "goodnum",
+  "version": "1.0.0",
+  "description": "a small library that adds commas to numbers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter nyan"
+  },
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hzlpz/GoodNum.git"
+  },
+  "keywords": [
+    "number",
+    "formatter"
+  ],
+  "author": "Hazel Paiz <paiz.hazel@gmail.com> (http://www.hzlpz.xyz)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hzlpz/GoodNum/issues"
+  },
+  "homepage": "https://github.com/hzlpz/GoodNum#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
